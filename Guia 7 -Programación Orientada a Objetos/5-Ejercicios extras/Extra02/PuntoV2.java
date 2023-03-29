@@ -6,13 +6,13 @@ import java.util.Scanner;
  *
  * @author TKBio
  */
-public class Punto {
+public class PuntoV2 {
 
 //generamos atributos
     private int x1, y1, x2, y2;
 //Generamos los constructores vacios
 
-    public Punto() {
+    public PuntoV2() {
         setX1(0);
         setY1(0);
         setX2(0);
@@ -20,7 +20,7 @@ public class Punto {
     }
     //generamos los contructores por parametro
 
-    public Punto(int x1, int y1, int x2, int y2) {
+    public PuntoV2(int x1, int y1, int x2, int y2) {
         setX1(x1);
         setY1(y1);
         setX2(x2);

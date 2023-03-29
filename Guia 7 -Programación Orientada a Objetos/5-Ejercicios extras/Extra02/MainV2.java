@@ -4,10 +4,10 @@ package punto;
  *
  * @author TKBio
  */
-public class Main {
+public class MainV2 {
 
     public static void main(String[] args) {
-        Punto uno = new Punto();
+        PuntoV2 uno = new PuntoV2();
         uno.crearPuntos();
         double distancia = uno.calcularDistancia();
         System.out.println(uno.toString());
