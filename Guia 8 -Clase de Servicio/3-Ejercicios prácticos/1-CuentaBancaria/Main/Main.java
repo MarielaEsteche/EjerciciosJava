@@ -104,7 +104,7 @@ public class Main {
 
                 case 7:
                     JOptionPane.showMessageDialog(null, "¡Gracias por su Visita! \n"
-                                + "Vuelvas Prontos xD");
+                            + "Vuelvas Prontos xD");
                     break;
 
                 default:

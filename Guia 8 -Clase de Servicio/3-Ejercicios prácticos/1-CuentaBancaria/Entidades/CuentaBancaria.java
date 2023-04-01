@@ -7,7 +7,7 @@ package Entidades;
 public class CuentaBancaria {
 
     //Atributos
-    private int numeroCuenta;
+    private long numeroCuenta;
     private long dniCliente;
     public double saldoActual;
 
@@ -16,18 +16,18 @@ public class CuentaBancaria {
     }
     //constructor con parametros
 
-    public CuentaBancaria(int numeroCuenta, long dniCliente, double saldoActual) {
+    public CuentaBancaria(long numeroCuenta, long dniCliente, double saldoActual) {
         this.numeroCuenta = numeroCuenta;
         this.dniCliente = dniCliente;
         this.saldoActual = saldoActual;
     }
 
     //metodos geter y setter
-    public int getNumeroCuenta() {
+    public long getNumeroCuenta() {
         return numeroCuenta;
     }
 
-    public void setNumeroCuenta(int numeroCuenta) {
+    public void setNumeroCuenta(long numeroCuenta) {
         this.numeroCuenta = numeroCuenta;
     }
 
