@@ -39,11 +39,11 @@ public class Main {
                     + "1. Crear cuenta\n"
                     + "2. Ingresar dinero\n"
                     + "3. Retirar dinero\n"
-                    + "4. Extracción rápida del 20%\n"
+                    + "4. Extraccion rapida del 20%\n"
                     + "5. Consultar saldo\n"
                     + "6. Consultar datos\n"
                     + "7. Salir\n\n"
-                    + "Ingrese una opción:");
+                    + "Ingrese una opcion:");
 
             opcion = Integer.parseInt(opcionStr);
 
