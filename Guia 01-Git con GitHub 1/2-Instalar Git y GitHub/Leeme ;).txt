@@ -1,9 +1,0 @@
-Instalación Git con GitHub
-
-Para trabajar con Git vas a tener que instalar Git, la manera de hacerlo es facil, pero igual te dejo un video para la instalación.
-
-⚠️ Atención: Git es una aplicación que nos sirve para subir las versiones y los cambios de nuestro código y GitHub es una pagina web para alojar ese código y sus cambios en un repositorio.
-
-Tanto Git, como GitHub no son IDEs, por lo tanto no vas a codear en ellos, pero, son herramientas que los programadores utilizan todos los días.
-
-GitHub lo usas desde el navegador que quieras. tener toda la info en el PDF qye dejo en esta Guia
